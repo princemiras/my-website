@@ -1,9 +1,30 @@
-body { 
-    font-family: Arial, sans-serif; 
-    text-align: center; 
-    background-color: #f4f4f4; 
-    } 
-    h1 { 
-    
-    color: #007bff;
-    }
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+Header {
+    background-color:#000080;
+    color: blue;
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+
+}
+
+selection {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+
+}
+a{
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
